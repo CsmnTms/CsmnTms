@@ -2,7 +2,8 @@
 
 Professionally, I've been full‑stack developin' for 'bout half a decade. I'm doing that because I like solving problems, and at the moment, I'm doing my part in tackling those of the pharma industry.
 
-Personally, I've been creating problems for 'bout three decades. Usually for myself. But I solve those too. "One must imagine Sisyphus happy"
+Personally, I've been creating problems for 'bout three decades. Usually for myself. But I solve those too. 
+"One must imagine Sisyphus happy"
 
 but nah for real i like physics, snowboarding, beer, drum & bass, thought experiments, biking, beer, video games, typing in lowercase only, hiking, beer and overall having a good time doing whatever i do
 
