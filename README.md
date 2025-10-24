@@ -20,6 +20,6 @@ but nah for real i like physics, snowboarding, beer, drum & bass, thought experi
 - Extras: Testing, caching, performance, CI/CD, “boring is good” architecture
 
 ## Let’s connect
-- LinkedIn: [https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/tamascosmin/)
+- LinkedIn: [https://www.linkedin.com/in/tamascosmin/](https://www.linkedin.com/in/tamascosmin/)
 - GitHub: you're already here silly, but [here](https://github.com/CsmnTms/)'s a link anyway
 - Email: csmntamas97@gmail.com
