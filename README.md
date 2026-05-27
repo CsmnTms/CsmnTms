@@ -19,7 +19,10 @@ SYNOPSIS
     tecdev [--backend] [--frontend] [--ops] [--beer]...
 
 DESCRIPTION
-    Likes solving problems. Equally good at making them. Has been making his own for ~28 years (ongoing). Has been solving some in the healthcare industry for ~5 years
+    Likes solving problems. 
+    Equally good at making them. 
+    Has been making his own for ~28 years (ongoing). 
+    Has been solving some in the healthcare industry for ~5 years
 
 OPTIONS
     --backend     # c#, .net, asp.net core, ef core
