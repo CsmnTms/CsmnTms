@@ -1,25 +1,61 @@
-# Hi, I’m Tămaș Cosmin
+```bash
+$ whoami
+tecdev
 
-Professionally, I've been full‑stack developin' for 'bout half a decade. I'm doing that because I like solving problems, and at the moment, I'm doing my part in tackling those of the pharma industry.
+$ id tecdev
+uid=1997(tecdev) gid=1000(devs) groups=devs,backend,beer,snowboard,lowercase
 
-Personally, I've been creating problems for 'bout three decades. Usually for myself. But I solve those too. 
-"One must imagine Sisyphus happy"
+$ uptime
+ ~28y up, ~5y professional, currently @ healthcare & life sciences
 
-but nah for real i like physics, snowboarding, beer, drum & bass, thought experiments, biking, beer, video games, typing in lowercase only, hiking, beer and overall having a good time doing whatever i do
+$ man tecdev
 
-## What I do
-- Design clean APIs in ASP.NET Core with EF Core and SQLite/SQL Server
-- Ship thoughtful frontends with Next.js, React, and TypeScript
-- Automate builds and deployments with Docker and GitHub Actions
-- Keep apps observable with logging, metrics, and health checks
+TECDEV(1)              User Commands              TECDEV(1)
 
-## Toolbox
-- Backend: C#, .NET, ASP.NET Core, EF Core
-- Frontend: React, Next.js, TypeScript, Tailwind, Angular
-- DevOps: Docker, GitHub Actions, Azure
-- Extras: Testing, caching, performance, CI/CD, “boring is good” architecture
+NAME
+    tecdev - tamas cosmin, software developer, scrum master
 
-## Let’s connect
-- LinkedIn: [https://www.linkedin.com/in/tamascosmin/](https://www.linkedin.com/in/tamascosmin/)
-- GitHub: you're already here silly, but [here](https://github.com/CsmnTms/)'s a link anyway
-- Email: csmntamas97@gmail.com
+SYNOPSIS
+    tecdev [--backend] [--frontend] [--ops] [--beer]...
+
+DESCRIPTION
+    Likes solving problems. Equally good at making them. Has been making his own for ~28 years (ongoing). Has been solving some in the healthcare industry for ~5 years
+
+OPTIONS
+    --backend     # c#, .net, asp.net core, ef core
+    --frontend    # typescript, next.js, react, angular
+    --ops         # docker, gh actions, azure
+    --extras      # caching, perf, observability
+
+ENVIRONMENT
+    BEER          required at runtime
+    SNOWBOARD     winters only
+    LOWERCASE     hardcoded true
+
+BUGS
+    Refuses to capitalize.
+    Memory leak between 23:00 and 02:00; collects via sleep(8h).
+    Mild incompatibility with mornings.
+
+$ exit
+logout
+```
+
+>| > "one must imagine sisyphus happy"
+
+```bash
+$ git log --oneline ~/tecdev | tail
+1a2b3c  init: hello world  (1997)
+m5n6o7  feat: discover beer
+a20s01  feat: enroll @ UTCN cluj-napoca  (2016)
+b20af0  release: graduate co̵͎̪̽̌ll̶͎͊e... - **error** (2020)
+as21sj  revert b20af0 - graduate (postponed cus of covid) (2020)
+k28ds6  pivot: get employed (2021)
+g0h1i2  feat: build homeserver against better judgment
+k3l4m5  feat: type exclusively in lowercase
+* HEAD   wip: this readme
+```
+
+- `mail` csmntamas97@gmail.com
+- `github` you're already here silly, but i'll give you a [link](https://github.com/CsmnTms/) anyway
+- `linkedin` [tamascosmin](https://linkedin.com/in/tamascosmin)
