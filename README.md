@@ -1,4 +1,21 @@
 ```bash
+┌─[ tecdev@github:~ ]─────────────────────────────────────[_][□][×]┐
+
+$ ssh tecdev@github
+
+       _____ _____ ____ ____  _______     __
+      |_   _| ____/ ___|  _ \| ____\ \   / /
+        | | |  _|| |   | | | |  _|  \ \ / /
+        | | | |__| |___| |_| | |___  \ V /
+        |_| |_____\____|____/|_____|  \_/
+
+  Welcome to tecdev v28.0 (Long Term Support: probably).
+  Last login: forever ago, from somewhere reasonable.
+
+  * Docs:    scroll down
+  * Beer:    local supply nominal
+  * Status:  12 commits behind life, 4 ahead of bedtime
+
 $ whoami
 tecdev
 
@@ -40,13 +57,23 @@ BUGS
     Memory leak between 23:00 and 02:00; collects via sleep(8h).
     Mild incompatibility with mornings.
 
-$ exit
-logout
+$ exit                                       \o/
+logout                                        |
+                                             / \
+└──────────────────────────────────────────────────────────────────┘
 ```
 
->| > "one must imagine sisyphus happy"
+```
+╭─⬤──────────────────────────────────────⬤─╮
+                                           
+    > "one must imagine sisyphus happy"      
+                                           
+╰─⬤──────────────────────────────────────⬤─╯
+```
 
 ```bash
+┌─[ ~/tecdev ]────────────────────────────────────────────[_][□][×]┐
+
 $ git log --oneline ~/tecdev | tail
 1a2b3c  init: hello world  (1997)
 m5n6o7  feat: discover beer
@@ -57,6 +84,11 @@ k28ds6  pivot: get employed (2021)
 g0h1i2  feat: build homeserver against better judgment
 k3l4m5  feat: type exclusively in lowercase
 * HEAD   wip: this readme
+
+                                                             o/
+[tecdev ~]$ █                                               /|
+                                                            / \
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 - `mail` csmntamas97@gmail.com
