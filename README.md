@@ -33,7 +33,7 @@ ENVIRONMENT
     LOWERCASE     hardcoded true
 
 BUGS
-    Refuses to capitalize.
+    Randomly refuses to capitalize.
     Memory leak between 23:00 and 02:00; collects via sleep(8h).
     Mild incompatibility with mornings.
 
